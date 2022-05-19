@@ -1,1 +1,1 @@
-print("migrate db")
+print("now you can pay")
